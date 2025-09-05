@@ -61,5 +61,7 @@ public class Main {
         maiorNome.mostrarContato();
 
         sc.close();
+
+        System.out.println("Fera!");
     }
 }
